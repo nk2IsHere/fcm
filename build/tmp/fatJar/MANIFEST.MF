@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: LevelServer
+Implementation-Version: ALPHA
+Main-Class: ga.nk2ishere.dev.App
+
